@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "a title"
+    },
+    {
+      "id": 2,
+      "title": "another title"
+    },
+    {
+      "id": "1a1a",
+      "title": "new post title"
+    },
+    {
+      "id": "eeb4",
+      "title": "new post title"
+    },
+    {
+      "id": "8448",
+      "title": "new post title"
+    },
+    {
+      "id": "126f",
+      "title": "new post title"
+    },
+    {
+      "id": "5eb1",
+      "title": "new post title"
+    }
+  ]
+}
